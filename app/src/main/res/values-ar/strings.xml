@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">درع العين</string>
+    <string name="tagline">فلتر الضوء الأزرق وحماية العين ليلاً</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="tab_filter">الفلتر</string>
+    <string name="tab_schedule">الجدول</string>
+    <string name="tab_eye_health">صحة العين</string>
+    <string name="tab_settings">الإعدادات</string>
+
+    <!-- Main Screen -->
+    <string name="filter_status_active">درع العين مفعّل</string>
+    <string name="filter_status_inactive">درع العين متوقف</string>
+    <string name="filter_active_desc">حجب الضوء الأزرق الضار لحماية إيقاع الساعة البيولوجية والنوم العميق.</string>
+    <string name="filter_inactive_desc">قم بالتفعيل لتهدئة العين المجهدة وتخفيف توهج الشاشة ليلاً.</string>
+    <string name="filter_intensity">شدة الفلتر</string>
+    <string name="screen_dim">تعتيم الشاشة الإضافي</string>
+    <string name="color_temperature">درجة حرارة اللون</string>
+    <string name="color_presets">أنماط الفلتر</string>
+    <string name="custom_color">لون مخصص</string>
+
+    <!-- Presets -->
+    <string name="preset_candle">ضوء الشموع</string>
+    <string name="preset_candle_sub">1800K • دافئ للغاية</string>
+    <string name="preset_dawn">شروق وغروب</string>
+    <string name="preset_dawn_sub">2400K • ذهبي دافئ</string>
+    <string name="preset_night">مصباح ليلي</string>
+    <string name="preset_night_sub">3400K • متوازن</string>
+    <string name="preset_reading">قراءة هادئة</string>
+    <string name="preset_reading_sub">4200K • إجهاد منخفض</string>
+    <string name="preset_twilight">شفق داكن</string>
+    <string name="preset_twilight_sub">1200K • أحمر للظلام الدامس</string>
+    <string name="preset_custom">مخصص</string>
+    <string name="preset_custom_sub">اختر درجة اللون و كلفن</string>
+
+    <!-- Overlay Permission -->
+    <string name="permission_banner_title">مطلوب إذن الظهور فوق التطبيقات</string>
+    <string name="permission_banner_msg">لتطبيق فلتر حماية العين على كامل شاشة الهاتف وجميع التطبيقات، يرجى منح إذن \'الظهور فوق التطبيقات الأخرى\'.</string>
+    <string name="grant_permission">منح الإذن</string>
+    <string name="preview_in_app">معاينة داخل التطبيق</string>
+    <string name="permission_granted">إذن العرض فوق التطبيقات مفعل</string>
+
+    <!-- Schedule & Timers -->
+    <string name="schedule_title">جدول الساعة البيولوجية</string>
+    <string name="schedule_desc">تشغيل الفلتر تلقائياً عند غروب الشمس أو وقت نومك المفضل.</string>
+    <string name="enable_auto_schedule">تفعيل الجدول التلقائي</string>
+    <string name="start_time">وقت البدء (المساء)</string>
+    <string name="end_time">وقت الانتهاء (الصباح)</string>
+    <string name="quick_timer">مؤقت النوم السريع</string>
+    <string name="timer_15m">15 دقيقة</string>
+    <string name="timer_30m">30 دقيقة</string>
+    <string name="timer_45m">45 دقيقة</string>
+    <string name="timer_60m">ساعة واحدة</string>
+    <string name="timer_120m">ساعتان</string>
+    <string name="timer_active_left">المؤقت يعمل: متبقي %1$d دقيقة</string>
+    <string name="cancel_timer">إلغاء المؤقت</string>
+
+    <!-- 20-20-20 & Eye Health -->
+    <string name="rule_20_20_title">قاعدة 20-20-20 لراحة العين</string>
+    <string name="rule_20_20_desc">كل 20 دقيقة من النظر إلى الشاشة، انظر إلى مسافة 6 أمتار (20 قدماً) لمدة 20 ثانية لتجنب إجهاد العين الرقمي.</string>
+    <string name="start_eye_rest">بدء استراحة 20 ثانية</string>
+    <string name="eye_rest_running">انظر إلى مسافة بعيدة… متبقي %1$d ثواني</string>
+    <string name="eye_rest_complete">أحسنت! عضلات العين الآن مسترخية.</string>
+    <string name="eye_tip_1_title">لماذا الضوء الأزرق ضار ليلاً؟</string>
+    <string name="eye_tip_1_body">تبعث الشاشات ضوءاً أزرق قصير الموجة يثبط إنتاج هرمون النوم (الميلاتونين) مما يؤخر النوم العميق ويسبب الأرق.</string>
+    <string name="eye_tip_2_title">مقاومة جفاف العين</string>
+    <string name="eye_tip_2_body">عند التحديق في الشاشات الرقمية، يقل معدل الرمش بنسبة 50%. تذكر أن ترمش بوعي وحافظ على إضاءة جيدة في الغرفة.</string>
+    <string name="eye_tip_3_title">مسافة الشاشة وموقعها</string>
+    <string name="eye_tip_3_body">اجعل الشاشة على بعد ذراع (حوالي 50–65 سم)، وأسفل مستوى العين قليلاً بحيث تغطي الجفون جزءاً أكبر من سطح العين.</string>
+
+    <!-- Settings & Language -->
+    <string name="settings_title">التفضيلات واللغة</string>
+    <string name="language">اللغة</string>
+    <string name="lang_ar">العربية (Arabic)</string>
+    <string name="lang_en">English (الإنجليزية)</string>
+    <string name="notification_controls">عناصر التحكم السريع بالإشعار</string>
+    <string name="notification_controls_desc">إبقاء إشعار دائم لضبط الفلتر أو إيقافه وتشغيله بلمسة واحدة.</string>
+    <string name="pause_service">إيقاف</string>
+    <string name="resume_service">تشغيل</string>
+    <string name="app_version">درع العين الإصدار 1.0.0</string>
+    <string name="notification_channel_name">فلتر درع العين</string>
+    <string name="notification_channel_desc">طبقة فلتر الضوء الأزرق لحماية العين</string>
+</resources>
